@@ -6,6 +6,8 @@ el proyecto desde un inicio se manejó con un modelo en cascada.
 
 Se realizo en intellij IDEA Con un lenguaje en Python y la base de datos se realizó en SQL.
 
+el software se realizo para que tuviera un ciclo de vida de 4 años 
+
 Como publicar un repositorio en Github.
 •	se inicia el git en la consola de comando 
 git init
